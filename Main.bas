@@ -5,6 +5,7 @@ Option Compare Database
 Public Sub hi()
 MsgBox "Hi"
 End Sub
+'woohoo, working very nicely!'
 
 Sub main()
 Call hi
